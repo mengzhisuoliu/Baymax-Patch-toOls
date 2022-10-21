@@ -1,5 +1,4 @@
 # Baymax-Patch-toOls
-A lovely patch toOls
 1. 一款可以生成劫持补丁从工具，并在劫持补丁中模拟了调试器的中断功能，支持中断后修改寄存器、内存等以修改程序执行流程。
 
 工具说明：
@@ -30,4 +29,6 @@ A lovely patch toOls
 
 ## Screenshots
 
-
+<img width="531" height="508" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/11.png"/>
+<img width="537" height="673" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/12.png"/>
+![exception_dlg](https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/13.png)
