@@ -33,3 +33,4 @@
 <img width="537" height="673" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/12.png"/>
 ![exception_dlg](https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/13.png)
 ![exception_dlg](https://www.chinapyg.com)
+- Debugger core by [TitanEngine Community Edition](https://github.com/x64dbg/TitanEngine)
