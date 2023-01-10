@@ -15,15 +15,15 @@
 6. support for patching processes using feature code matching
 7. support setting API HOOK decoding for shelled programs before patching data
 8. support patching data after setting hardware breakpoint interrupt for the process
-9. support setting abnormal breakpoints to modify the memory pointed to by registers or registers after interrupting the process
+9. support setting exception breakpoints to modify the memory pointed to by registers or registers after interrupting the process
 10. support setting conditional breakpoints for processes to determine whether to execute Patch according to the number of interrupts, register or memory values
 11. Support setting different conditional breakpoints for the same address to perform Patch on the interrupts that meet the conditions
-12. support extracting global variables from instructions to store and modify them
+12. support extracting global variables from assembly instructions to store and modify them
 13. support for storing data and using stored data during process execution
 14. support patching the memory pointed to by the memory marker after interrupt
 15. support basic operations on data after interrupt
 16. support for reading patch data from ini file
-17. support to create memory registers
+17. support to create memory keymaker
 18. support for creating debug patches to troubleshoot patch problems by yourself
 
 Unpack password：www.chinapyg.com
