@@ -29,9 +29,16 @@
 Unpack password：www.chinapyg.com
 
 
-## Screenshots
+## Screenshots-main
 
-<img width="531" height="508" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/11.png"/>
+<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/11.png"/>
 <img width="537" height="673" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/12.png"/>
 <img width="537" height="583" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/13.png"/>
+
+## Screenshots-toOls
+<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Compare%20en.png"/>
+<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Hex%20en.png"/>
+<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Search%20EN.png"/>
+<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Translate-en.png"/>
+
 
