@@ -39,6 +39,6 @@ Unpack password：www.chinapyg.com
 <img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Compare%20en.png"/>
 <img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Hex%20en.png"/>
 <img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Search%20EN.png"/>
-<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Translate-en.png"/>
+<img width="809" height="654" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Translate-en.png"/>
 
 
