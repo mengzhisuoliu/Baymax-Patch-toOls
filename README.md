@@ -26,7 +26,14 @@
 17. support to create memory keymaker
 18. support for creating debug patches to troubleshoot patch problems by yourself
 
-Unpack password：www.chinapyg.com
+
+# Info
+
+Designer：Nisy/PYG 
+HomePage：www.chinapyg.com
+First Edition：2016.03.21
+
+Unzip password：www.chinapyg.com
 
 
 ## Screenshots-main
@@ -39,6 +46,6 @@ Unpack password：www.chinapyg.com
 <img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Compare%20en.png"/>
 <img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Hex%20en.png"/>
 <img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Search%20EN.png"/>
-<img width="809" height="654" src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Translate-en.png"/>
+<img src="https://github.com/sicaril/Baymax-Patch-toOls/blob/main/pic/Translate-en.png"/>
 
 
