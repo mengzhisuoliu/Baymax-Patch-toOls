@@ -29,11 +29,11 @@
 
 # Info
 
-Designer：Nisy/PYG 
-HomePage：www.chinapyg.com
-First Edition：2016.03.21
+. Designer：Nisy/PYG 
+. HomePage：www.chinapyg.com
+. First Edition：2016.03.21
 
-Unzip password：www.chinapyg.com
+. Unzip password：www.chinapyg.com
 
 
 ## Screenshots-main
