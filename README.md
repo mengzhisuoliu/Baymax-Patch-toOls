@@ -32,8 +32,9 @@
 1. Designer：Nisy/PYG 
 2. HomePage：www.chinapyg.com
 3. First Edition：2016.03.21
+4. Latest release v3.1.5
 
-4. Unzip password：www.chinapyg.com
+5. Unzip password：www.chinapyg.com
 
 
 ## Screenshots-main
